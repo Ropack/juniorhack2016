@@ -1,0 +1,6 @@
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\ropik\documents\visual studio 2015\Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

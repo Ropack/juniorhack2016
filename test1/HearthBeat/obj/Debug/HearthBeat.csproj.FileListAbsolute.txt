@@ -1,0 +1,6 @@
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\bin\Debug\HearthBeat.exe.config
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\bin\Debug\HearthBeat.exe
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\bin\Debug\HearthBeat.pdb
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\obj\Debug\HearthBeat.csprojResolveAssemblyReference.cache
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\obj\Debug\HearthBeat.exe
+c:\users\ropik\documents\visual studio 2015\Projects\HearthBeat\obj\Debug\HearthBeat.pdb
